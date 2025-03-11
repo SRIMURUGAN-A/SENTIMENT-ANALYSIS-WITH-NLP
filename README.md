@@ -41,3 +41,8 @@ Visualizing the Confusion Matrix:
 
 A heatmap of the confusion matrix is plotted using seaborn.heatmap().
 This helps to see how well the model classifies positive and negative reviews.
+
+
+
+
+OUTPUT : ![Image](https://github.com/user-attachments/assets/e64f12d7-f84a-4469-b015-a71efa4a4209)
